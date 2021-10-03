@@ -1,5 +1,3 @@
-package javaStuff;
-
 public class smallProgram {
     public static void main(String[] args) {
         int $s = 5;
